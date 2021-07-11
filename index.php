@@ -6,9 +6,9 @@ https://codeshack.io/secure-login-system-php-mysql/ // another example of a logi
 -->
 <head></head>
 <body>
-<form action="/"method="post">
-<input type="text"name="username"placeholder="username">
-<input type="password"placeholder="password"name="password">
+<form action="authenticate.php"method="post">
+<input type="text"name="username"placeholder="username"required>
+<input type="password"placeholder="password"name="password"required>
 <button type="submit" name="submit_btn">Submit</button>
 </form>
 </body>
