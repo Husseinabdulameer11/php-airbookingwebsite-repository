@@ -1,0 +1,26 @@
+.mycarouselimages{
+    filter:brightness(90%);
+    }
+  .mycarousel-item-1{
+    background:url(../../images/landscape1.jpg);background-position-y:-517px;
+    } 
+  .mycarousel-item-2{
+    background:url(../../images/landscape2.jpg);background-position-y:-517px;
+    }
+  .mycarousel-item-3{
+    background:url(../../images/landscape3.jpg);background-position-y:-517px;
+    }
+  .carousel-item{
+    height: 32em;
+  }
+  .carousel-caption{
+    top:206px;
+    }
+  .carousel-caption>h5{
+      color:black;
+      font-size:3em;
+  }
+  .carousel-caption>p{
+  color: black;
+  font-size: 0.8em;
+  }
