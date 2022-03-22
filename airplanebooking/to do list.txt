@@ -1,0 +1,1 @@
+subtract amount of bookers from the total amount of seats in the plane so seats-bookers=new amount of seats[-]

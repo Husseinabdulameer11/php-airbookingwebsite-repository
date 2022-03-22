@@ -1,0 +1,22 @@
+body{background: #1D1716;}
+h1,h2,h3,h4,h5,h6,a{
+ color:#F3BC77;
+ text-shadow:4px 0px red;
+}
+.white_box{
+ background:#A55233;
+ width:400px;
+ position:relative;
+ left:20%;
+
+
+}
+input.login-input{
+outline: none;
+background: beige;
+border-radius: 6px;
+margin-left: 10px;
+  
+  
+
+}

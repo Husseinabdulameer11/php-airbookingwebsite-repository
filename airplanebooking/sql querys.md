@@ -1,0 +1,1 @@
+SELECT trips.company_id, trips.trip_from, trips.trip_to,trips.trip_name,airplane_company_manager.Airplane_company_name,airplane_company_manager.Airplane_company_logo FROM trips INNER JOIN airplane_company_manager ON trips.company_id=airplane_company_manager.company_id
