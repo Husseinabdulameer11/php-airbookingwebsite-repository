@@ -1,0 +1,9 @@
+.website-footer{
+    background: black;
+    color: #ffffff;
+    min-height:20vh;
+    display:flex;
+    flex-direction:column;
+    
+  
+}

@@ -1,0 +1,5 @@
+-- todo list for 17.06.2021--
+create a directory with a php code[x]
+set images into directory[x]
+upload images from the directory to database[-]
+view images from database in index.php[-]

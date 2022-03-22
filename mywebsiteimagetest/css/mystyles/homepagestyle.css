@@ -1,0 +1,10 @@
+.artical_container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+    padding:22px;
+    grid-gap: 46px;
+}
+.website_footer{
+    height: 29.6vh;
+}
