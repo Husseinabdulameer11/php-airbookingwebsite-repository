@@ -57,6 +57,7 @@ if($queryresults>0){
         </div>
         ";
         $_SESSION["amount_of_seats"]=$row["amount_of_seats"];
+        $_SESSION["trip_ID"]=$row["trip_id"];
     }
 }
 else{
